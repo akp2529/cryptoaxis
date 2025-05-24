@@ -58,10 +58,10 @@ Both APIs are integrated via [RapidAPI](https://rapidapi.com/).
    ```bash
    npm run dev
 
-### Open http://localhost:3000 to view it in your browser.
+**Open http://localhost:3000 to view it in your browser.**
 
 
-***Built and maintained by @akp 🛠️***
+### Built and maintained by @akp 🛠️
 
 
 
