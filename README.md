@@ -42,3 +42,26 @@ Both APIs are integrated via [RapidAPI](https://rapidapi.com/).
    git clone https://github.com/your-username/cryptoaxis.git
    cd cryptoaxis
 
+2. **Install dependencies
+
+   ```bash
+   npm install
+
+3. **Set up environment variables
+
+   ###Create a .env file in the root directory and add your API key:
+   ```bash
+   REACT_APP_CRYPTO_API_KEY=your_rapidapi_key
+
+4. **Start the development server
+
+   ```bash
+   npm run dev
+
+###Open http://localhost:3000 to view it in your browser.
+
+
+***Built and maintained by @akp 🛠️
+
+
+
